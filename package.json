@@ -6,6 +6,6 @@
     "url": "https://github.com/jackwanders"
   },
   "dependencies": {
-    "chokidar": "0.3.8"
+    "chokidar": "*"
   }
 }
