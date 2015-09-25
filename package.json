@@ -1,0 +1,11 @@
+{
+  "name": "shrinktest",
+  "version": "1.0.0",
+  "author": {
+    "name": "jackwanders",
+    "url": "https://github.com/jackwanders"
+  },
+  "dependencies": {
+    "chokidar": "0.3.8"
+  }
+}
