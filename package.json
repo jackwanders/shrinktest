@@ -5,7 +5,10 @@
     "name": "jackwanders",
     "url": "https://github.com/jackwanders"
   },
+  "scripts": {
+    "preinstall": "lockdown"
+  },
   "dependencies": {
-    "chokidar": "*"
+    "chokidar": "^1.0.0"
   }
 }
